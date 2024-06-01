@@ -281,6 +281,7 @@ ol {
   text-align: start;
   text-overflow: ellipsis;
   white-space: nowrap;
+  padding-block-end: 4px;
 }
 
 .content__video-card-thumbnail {
